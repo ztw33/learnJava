@@ -63,6 +63,7 @@ class WaxOff implements Runnable {
         System.out.println("Ending Wax Off task");
     }
 }
+
 public class WaxOMatic {
     public static void main(String [] args) throws Exception{
         Car car = new Car();
